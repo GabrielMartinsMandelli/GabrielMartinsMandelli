@@ -1,7 +1,8 @@
 #  Gabriel Martins Mandelli 
 
-<div align="center">
-  <img <img src="https://media4.giphy.com" width="300" alt="Thinking GIF" />
+<div align="left">
+  <img src="https://media4.giphy.com" width="300" alt="Thinking GIF" />
+</div>
 
 
 ### 🎓 Formação & Foco
