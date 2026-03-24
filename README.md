@@ -1,7 +1,7 @@
-# 👨‍💻 Olá, mundo! Eu sou o Gabriel Martins Mandelli 🚀
+# 👨‍💻 Gabriel Martins Mandelli
 
 <div align="left">
-  <img src="https://media4.giphy.com" width="300" alt="Thinking GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhsamJ3NTNya2JjeXEwOTZ5N3lxN2c2NHZhOHRlcXh2cTZuenhmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" width="350" alt="Thinking GIF" />
 </div>
 
 ### 🎓 Formação & Foco
@@ -28,6 +28,7 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 ### 📊 Meu Progresso no GitHub
 <div align="left">
+  <!-- IMPORTANTE: Troque 'SEU-USUARIO' pelo seu nome real do GitHub abaixo -->
   <img height="180em" src="https://github-readme-stats.vercel.app"/>
   <img height="180em" src="https://github-readme-stats.vercel.app"/>
 </div>
@@ -36,7 +37,7 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 ### 📫 Vamos trocar uma ideia?
 <div align="left">
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/gabrielmartinsmandelli?igsh=MXc2eW8xcGxiNDRieQ==" target="_blank">
     <img src="https://img.shields.io" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">
@@ -45,16 +46,12 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   <a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
     <img src="https://img.shields.io" alt="Gmail" />
   </a>
-  <a href="https://wa.me" target="_blank">
-    <img src="https://img.shields.io" alt="WhatsApp" />
-  </a>
 </div>
 
 <br />
 
 <div align="left">
-  ✨ **"O código que você escreve hoje é a base da inovação de amanhã."** ✨
+  ✨ **"O único modo de fazer um excelente trabalho é amar o que você faz."** ✨
   <br />
   <sub>Feito com 💻 por Gabriel Martins Mandelli</sub>
 </div>
-
