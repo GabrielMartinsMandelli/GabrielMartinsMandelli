@@ -38,14 +38,17 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 ### 📫 Vamos trocar uma ideia?
 <div align="left">
-  <a href="mailto:SEU-EMAIL@EMAIL.COM" target="_blank">
-    <img src="https://img.shields.io" alt="Gmail Badge" />
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io" alt="GitHub Badge" />
+  <a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
+    <img src="https://img.shields.io" alt="Gmail" />
+  </a>
+  <a href="https://wa.me" target="_blank">
+    <img src="https://img.shields.io" alt="WhatsApp" />
   </a>
 </div>
 
