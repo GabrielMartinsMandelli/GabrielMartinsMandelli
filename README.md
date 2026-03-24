@@ -16,42 +16,33 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 ### 🛠️ Minha Caixa de Ferramentas
 <div align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
 
 ### 📊 Meu Progresso no GitHub
 <div align="left">
-  <!-- IMPORTANTE: Troque 'SEU-USUARIO' pelo seu nome real do GitHub abaixo -->
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmartinsmandelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinsmandelli&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
 ### 📫 Vamos trocar uma ideia?
 <div align="left">
-  <a href="https://www.instagram.com/gabrielmartinsmandelli?igsh=MXc2eW8xcGxiNDRieQ==" target="_blank">
-    <img src="https://img.shields.io" alt="Instagram" />
+  <a href="https://www.instagram.com/gabrielmartinsmandelli" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gabriel-martins-mandelli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@GMAIL.COM" target="_blank">
-    <img src="https://img.shields.io" alt="Gmail" />
+  <a href="mailto:gabriel.martins.mandelli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<br />
-
-<div align="left">
-  ✨ **"O único modo de fazer um excelente trabalho é amar o que você faz."** ✨
-  <br />
-  <sub>Feito com 💻 por Gabriel Martins Mandelli</sub>
 </div>
