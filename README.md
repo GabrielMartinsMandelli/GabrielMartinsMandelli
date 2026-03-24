@@ -38,20 +38,20 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 ### 📫 Vamos trocar uma ideia?
 <div align="left">
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io" alt="Gmail" />
+  <a href="mailto:SEU-EMAIL@EMAIL.COM" target="_blank">
+    <img src="https://img.shields.io" alt="Gmail Badge" />
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io" alt="LinkedIn Badge" />
   </a>
-  <a href="https://wa.me">
-    <img src="https://img.shields.io" alt="WhatsApp" />
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io" alt="GitHub Badge" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
+<div align="left">
   ✨ **"O único modo de fazer um excelente trabalho é amar o que você faz."** ✨
   <br />
   <sub>Feito com 💻 por Gabriel Martins Mandelli</sub>
