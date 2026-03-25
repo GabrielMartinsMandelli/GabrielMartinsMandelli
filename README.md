@@ -1,8 +1,11 @@
-# 👨‍💻 Gabriel Martins Mandelli
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=1=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
 
-<div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhsamJ3NTNya2JjeXEwOTZ5N3lxN2c2NHZhOHRlcXh2cTZuenhmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" width="350" alt="Thinking GIF" />
-</div>
+
+
+# # 👨‍💻 Gabriel Martins Mandelli
 
 ### 🎓 Formação & Foco
 Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
@@ -39,7 +42,7 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   <a href="https://www.instagram.com/gabrielmartinsmandelli" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-martins-mandelli/" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-martins-mandelli-5683b33ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabriel.martins.mandelli@gmail.com">
