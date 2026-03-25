@@ -5,7 +5,7 @@
 <br>
 
 
-# # 👨‍💻 Gabriel Martins Mandelli
+# 👨‍💻 Gabriel Martins Mandelli
 
 ### 🎓 Formação & Foco
 Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
