@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=gab=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=gab=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
 <br>
 
 
-# 👨‍💻 Gabriel Martins Mandelli
+#  Gabriel Martins Mandelli
 
 ### 🎓 Formação & Foco
 Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
@@ -45,7 +45,7 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   <a href="https://www.linkedin.com/in/gabriel-martins-mandelli-5683b33ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gabriel.martins.mandelli@gmail.com">
+  <a href="mailto:gabrielmmandelli@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
