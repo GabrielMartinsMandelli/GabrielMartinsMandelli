@@ -15,7 +15,10 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 - 🏫 Cursando: **Técnico em Desenvolvimento de Sistemas**
 - 🎯 Objetivo: **Me tornar um desenvolvedor Full Stack de excelência**.
-- ⚡ Reflexão: **"Programar não é apenas sobre digitar linhas de código; é sobre a arte de decompor problemas complexos em soluções simples e elegantes que impactam vidas."** - 🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
+- ⚡ Reflexão: **"Quando se sentir exausto, saiba que o poder de Deus se aperfeiçoa na sua fraqueza (2 Coríntios 12:9-10).** 
+
+-  🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
+
 
 ---
 
