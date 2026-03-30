@@ -3,17 +3,19 @@
 <br>
 <br>
 <br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RwYmswdW9reWIyM2dvOTR0dGEwN2gzc3U1bjFzbjRmd2oyYnQ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" width="400" align="
+left">
 <br>
-
-#  Gabriel Martins Mandelli
+<br>
+<br>
+# Gabriel Martins Mandelli
 
 ### 🎓 Formação & Foco
 Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 - 🏫 Cursando: **Técnico em Desenvolvimento de Sistemas**
 - 🎯 Objetivo: **Me tornar um desenvolvedor Full Stack de excelência**.
-- ⚡ Reflexão: **"Programar não é apenas sobre digitar linhas de código; é sobre a arte de decompor problemas complexos em soluções simples e elegantes que impactam vidas."** 
-- 🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
+- ⚡ Reflexão: **"Programar não é apenas sobre digitar linhas de código; é sobre a arte de decompor problemas complexos em soluções simples e elegantes que impactam vidas."** - 🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
 
 ---
 
@@ -44,4 +46,5 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   </a>
   <a href="https://www.linkedin.com/in/gabriel-martins-mandelli-5683b33ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- 
+  </a>
+</div>
