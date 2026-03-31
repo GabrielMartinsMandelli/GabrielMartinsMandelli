@@ -8,7 +8,7 @@
 
 # Gabriel Martins Mandelli
 
-### 🎓 Formação & Foco
+### 🎓 Formação & Foco ADOROO VIAJAAAR MIGO
 Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 - 🏫 Cursando: **Técnico em Desenvolvimento de Sistemas**
