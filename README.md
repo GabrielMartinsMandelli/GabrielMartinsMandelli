@@ -13,7 +13,9 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 
 - 🏫 Cursando: **Técnico em Desenvolvimento de Sistemas**
 - 🎯 Objetivo: **Me tornar um desenvolvedor de excelência**.
-- ⚡ Reflexão: *"Quando se sentir exausto, saiba que o poder de Deus se aperfeiçoa na sua fraqueza (2 Coríntios 12:9-10)."* - 🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
+- ⚡ Reflexão: *"Quando se sentir exausto, saiba que o poder de Deus se aperfeiçoa na sua fraqueza (2 Coríntios 12:9-10)."* -
+
+- 🌱 Aprendendo agora: **Lógica de Programação, Banco de Dados e Web Design**.
 
 ---
 
