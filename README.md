@@ -1,3 +1,4 @@
+---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=gab=435&center=true&vCenter=true&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S" alt="Typing SVG" />
 </div>
@@ -37,8 +38,8 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmartinsmandelli&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
----
 
+---
 ### 📫 Vamos trocar uma ideia?
 <div align="left">
   <a href="https://www.instagram.com/gabrielmartinsmandelli" target="_blank">
