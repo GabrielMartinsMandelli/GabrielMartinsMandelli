@@ -32,11 +32,11 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
 ---
 
 ### 📊 Meu Progresso no GitHub
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmartinsmandelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinsmandelli&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
-</div>
 
+
+<div align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmartinsmandelli&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 ---
 
 ### 📫 Vamos trocar uma ideia?
