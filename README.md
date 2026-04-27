@@ -29,7 +29,6 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
-### six sevevem
 ---
 
 ### 📊 Meu Progresso no GitHub
@@ -47,7 +46,6 @@ Atualmente mergulhado no universo tech através do **SENAI**! 🛠️
   </a>
   <a href="https://www.linkedin.com/in/gabriel-martins-mandelli-5683b33ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- ### six sevevem
   </a>
 </div>
-## 67676
+
