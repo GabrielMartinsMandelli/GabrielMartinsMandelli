@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=30&duration=3000&pause=1000&color=gab=435&center=true&vCenter=true&width=435&lines=Seja+Bem+Vindo+!;Estudante+de+D.S" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RwYmswdW9reWIyM2dvOTR0dGEwN2gzc3U1bjFzbjRmd2oyYnQ2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
 # Gabriel Martins Mandelli
 
 ### 🎓 Formação & Foco 
